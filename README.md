@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meyer Oppelt</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meyeroppelt&label=Profile%20views&color=0e75b6&style=flat" alt="meyeroppelt" /> </p>
-[![wakatime](https://wakatime.com/badge/user/48ba0dff-9d03-4384-84c7-632a80978cf6.svg)](https://wakatime.com/@48ba0dff-9d03-4384-84c7-632a80978cf6)
+<a href="https://wakatime.com/@48ba0dff-9d03-4384-84c7-632a80978cf6"><img src="https://wakatime.com/badge/user/48ba0dff-9d03-4384-84c7-632a80978cf6.svg" alt="Total time coded since Aug 14 2022" /></a>
 
 - 🔭 I’m currently working on [University](https://usd.edu)
 
